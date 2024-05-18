@@ -40,3 +40,9 @@ python3 steaminator.py
 ~~~
 wget https://raw.githubusercontent.com/FrameworkComputer/steam-drive-mounter/main/mount-removal.py && chmod+x mount-removal.py
 ~~~
+
+### To run removal
+
+~~~
+python3 mount-removal.py
+~~~
