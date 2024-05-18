@@ -8,7 +8,7 @@
 - Labels said partition as steamgames (only if selected and only if not already labeled as such).
 - Handles permissions and ownership automatically, plus provides the auto-mount entry in fstab.
 - Creates a systemd service that checks the ownership/permissions at each boot - extreme, but it's a failsafe.
-  - chown matt:matt /media/$USER/steamgames
+  - chown $USER:$USER /media/$USER/steamgames
   - chmod 700 /media/$USER/steamgames
 - Seperate python script to remove the systemd service and related permission file.
 
