@@ -26,7 +26,7 @@
 
 ### To install:
 ~~~
-wget https://raw.githubusercontent.com/FrameworkComputer/steam-drive-mounter/main/steaminator.py && chmod+x steaminator.py
+wget https://raw.githubusercontent.com/FrameworkComputer/steam-drive-mounter/main/steaminator.py && chmod +x steaminator.py
 ~~~
 
 ### To run it:
@@ -38,7 +38,7 @@ python3 steaminator.py
 ### To remove the install:
 
 ~~~
-wget https://raw.githubusercontent.com/FrameworkComputer/steam-drive-mounter/main/mount-removal.py && chmod+x mount-removal.py
+wget https://raw.githubusercontent.com/FrameworkComputer/steam-drive-mounter/main/mount-removal.py && chmod +x mount-removal.py
 ~~~
 
 ### To run removal
