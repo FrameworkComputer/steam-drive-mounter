@@ -35,6 +35,11 @@ wget https://raw.githubusercontent.com/FrameworkComputer/steam-drive-mounter/mai
 python3 steaminator.py 
 ~~~
 
+- [Back to configuring Steam Fedora.](https://github.com/FrameworkComputer/dri_prime1-detection/edit/main/README.md#configure-steam-3)
+
+- [Back to configuring Steam Ubuntu.](https://github.com/FrameworkComputer/dri_prime1-detection/edit/main/README.md#configure-steam-1])
+
+  
 ### To remove the install:
 
 ~~~
