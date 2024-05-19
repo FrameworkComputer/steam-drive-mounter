@@ -1,6 +1,6 @@
 # steam-drive-mounter
 
-## Label, auto-mount your dedicated Steam library drive/partition.
+## Label, auto-mount your dedicated Steam library drive/partition on a second NVMe.
 
 ### Features:
 - Detects all drives and partitions available.
