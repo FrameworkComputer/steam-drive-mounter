@@ -28,10 +28,10 @@
 
 ### To install:
 ~~~
-wget https://raw.githubusercontent.com/FrameworkComputer/steam-drive-mounter/main/steaminator.py && chmod +x steaminator.py
+curl -s https://raw.githubusercontent.com/FrameworkComputer/steam-drive-mounter/main/steaminator.py -o steaminator.py && python3 steaminator.py
 ~~~
 
-### To run it:
+### To run it again later on without downloading again:
 
 ~~~
 python3 steaminator.py 
