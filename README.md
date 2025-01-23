@@ -2,6 +2,8 @@
 
 ## Label, auto-mount your dedicated Steam library drive/partition on a second NVMe.
 
+(A helper script for setting up your **secondary** NMVe drive on Framework Laptop 16 [to use with Steam](https://github.com/FrameworkComputer/dri_prime1-detection/blob/main/README.md#beginner-method-for-ubuntu-lts))
+
 ### Features:
 - Detects all drives and partitions available.
 - Provides a CLI prompt to select your desired games partition to be used.
